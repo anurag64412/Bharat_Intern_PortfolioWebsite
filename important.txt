@@ -1,0 +1,2 @@
+This portfolio website is not responsive.
+So please open it in desktop view. 
